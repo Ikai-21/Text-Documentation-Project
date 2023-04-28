@@ -1,0 +1,25 @@
+/* Styles for the main content */
+#main-doc {
+  margin-left: 150px;
+  padding: 20px;
+}
+
+.main-section {
+  margin-bottom: 30px;
+}
+
+.main-section header {
+  margin-bottom: 10px;
+}
+
+.main-section p {
+  margin-bottom: 10px;
+}
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+}
+  
